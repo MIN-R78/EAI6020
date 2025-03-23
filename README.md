@@ -13,7 +13,6 @@ project/
 ├── app.py # Flask API service
 ├── test_api.py # API test script
 ├── train.py # Data preprocessing and model training script
-├── requirements.txt # Dependency library list
 └── README.md # Project description file
 
 ## Environment requirements
